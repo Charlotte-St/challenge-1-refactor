@@ -15,7 +15,7 @@ N/A
 This web document is the front page of a website for Horiseon Social Solution Services. 
 
 ## Credits
-Starting files provided by Northwestern Part-time Fullstack Bootcamp.
+Original starting files including index.html, style.css, and images used in those files provided by [Northwestern Full-Stack Part-Time Bootcamp](https://bootcamp.northwestern.edu/coding/). 
 
 ## License
 Please refer to the LICENSE in the repo. 
